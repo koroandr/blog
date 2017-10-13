@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+disqusShortname = "koroandr"
+title = "koroandr's blog"
+theme = "pickles"
+author = "Андрей Королёв"
+publishDir = "docs"
