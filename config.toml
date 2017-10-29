@@ -1,7 +1,9 @@
-baseURL = "andrewshmann.com"
+baseURL = "http://andrewshmann.com/"
 languageCode = "en-us"
 disqusShortname = "koroandr"
 title = "Бложик Андрюшмана"
 theme = "pickles"
 author = "Андрей Королёв"
 disqus = "koroandr"
+[params]
+  ga_api_key = "UA-108831994-1"
