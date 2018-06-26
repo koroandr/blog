@@ -1,5 +1,5 @@
 baseURL = "http://andrewshmann.com/"
-languageCode = "en-us"
+languageCode = "ru"
 disqusShortname = "koroandr"
 title = "Бложик Андрюшмана"
 theme = "pickles"
