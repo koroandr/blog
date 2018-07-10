@@ -8,3 +8,5 @@ disqus = "koroandr"
 [params]
   ga_api_key = "UA-108831994-1"
 paginate = 5
+[taxonomies]
+   tag = "tags"

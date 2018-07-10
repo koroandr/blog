@@ -1,7 +1,9 @@
 ---
 title: "Автомобилизм в Швейцарии"
 date: 2018-04-14T10:00:00+02:00
-draft: true
+tags: [швейцария, авто, экспатия]
+markup: "markdown"
+draft: false
 ---
 
 {{% zoom-img src="/img/zurich.jpg" %}}

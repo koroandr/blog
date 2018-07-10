@@ -2,6 +2,7 @@
 title: "Агилитационная листовка"
 date: 2018-05-16T10:00:00+02:00
 draft: false
+tags: [работа, программирование, менеджмент]
 ---
 
 {{% zoom-img src="/img/agilitation.jpg" %}}
